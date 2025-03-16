@@ -1,0 +1,37 @@
+# Compiled ROM files
+*.gb
+*.gbc
+
+# Object files
+*.o
+
+# Dependency files
+*.d
+
+# Executable and intermediate files
+*.exe
+*.map
+*.lst
+*.sym
+*.ihx
+*.asm
+*.adb
+*.adb.bak
+*.noi
+
+# Backup and temporary files
+*.bak
+*.tmp
+*.log
+
+# Build artifacts
+build/
+bin/
+out/
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
